@@ -20,6 +20,7 @@ export function App() {
 
     return Number(positivePercentage);
   };
+  //comment
 
   const onLeaveFeedback = event => {
     const { name } = event.target;
